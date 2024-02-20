@@ -1,9 +1,9 @@
 # Maya Autocompletion and lint files for any venv
 
 Clone this repo to a directory of your choice.
-
+```bash
 git clone https://github.com/amenrio/maya-env-autocompletion.git /srv/dev/maya-env-autocompletion
-
+```
 Then, inside any virtual environment, run this command
 
 ```bash
